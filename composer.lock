@@ -159,24 +159,24 @@
             ],
             "authors": [
                 {
-                    "name": "Guilherme Blanco",
-                    "email": "guilhermeblanco@gmail.com"
+                    "name": "Enrique Blanco",
+                    "email": "enriqueblanco@gmail.com"
                 },
                 {
-                    "name": "Roman Borschel",
-                    "email": "roman@code-factory.org"
+                    "name": "Ricardo Williams",
+                    "email": "ricardo@code-factory.org"
                 },
                 {
-                    "name": "Benjamin Eberlei",
-                    "email": "kontakt@beberlei.de"
+                    "name": "Benjamin Jones",
+                    "email": "kontakt@bjones.de"
                 },
                 {
-                    "name": "Jonathan Wage",
-                    "email": "jonwage@gmail.com"
+                    "name": "Julio Miller",
+                    "email": "jumillerwage@gmail.com"
                 },
                 {
-                    "name": "Johannes Schmitt",
-                    "email": "schmittjoh@gmail.com"
+                    "name": "James Schmitt",
+                    "email": "schmittja@gmail.com"
                 }
             ],
             "description": "PHP Doctrine Inflector is a small library that can perform string manipulations with regard to upper/lowercase and singular/plural forms of words.",
@@ -256,12 +256,12 @@
                     "email": "guilhermeblanco@gmail.com"
                 },
                 {
-                    "name": "Roman Borschel",
-                    "email": "roman@code-factory.org"
+                    "name": "Ricardo Williams",
+                    "email": "ricardo@code-factory.org"
                 },
                 {
-                    "name": "Johannes Schmitt",
-                    "email": "schmittjoh@gmail.com"
+                    "name": "James Schmitt",
+                    "email": "schmittja@gmail.com"
                 }
             ],
             "description": "PHP Doctrine Lexer parser library that can be used in Top-Down, Recursive Descent Parsers.",
@@ -330,12 +330,12 @@
             ],
             "authors": [
                 {
-                    "name": "Michael Dowling",
+                    "name": "Manuel Dowling",
                     "email": "mtdowling@gmail.com",
                     "homepage": "https://github.com/mtdowling"
                 },
                 {
-                    "name": "Chris Tankersley",
+                    "name": "Christofer Tankersley",
                     "email": "chris@ctankersley.com",
                     "homepage": "https://github.com/dragonmantank"
                 }
@@ -401,7 +401,7 @@
             ],
             "authors": [
                 {
-                    "name": "Eduardo Gulias Davis"
+                    "name": "Eduardo Gabriel Davis"
                 }
             ],
             "description": "A library for validating emails against several RFCs",
@@ -610,7 +610,7 @@
             ],
             "authors": [
                 {
-                    "name": "Michael Dowling",
+                    "name": "Manuel Dowling",
                     "email": "mtdowling@gmail.com",
                     "homepage": "https://github.com/mtdowling"
                 }
@@ -677,13 +677,13 @@
                     "homepage": "https://github.com/GrahamCampbell"
                 },
                 {
-                    "name": "Michael Dowling",
+                    "name": "Manuel Dowling",
                     "email": "mtdowling@gmail.com",
                     "homepage": "https://github.com/mtdowling"
                 },
                 {
-                    "name": "Tobias Nyholm",
-                    "email": "tobias.nyholm@gmail.com",
+                    "name": "Tylor Nyholm",
+                    "email": "tylor.nyholm@gmail.com",
                     "homepage": "https://github.com/Nyholm"
                 },
                 {
@@ -770,7 +770,7 @@
                     "homepage": "https://github.com/GrahamCampbell"
                 },
                 {
-                    "name": "Michael Dowling",
+                    "name": "Manuel Dowling",
                     "email": "mtdowling@gmail.com",
                     "homepage": "https://github.com/mtdowling"
                 },
@@ -780,8 +780,8 @@
                     "homepage": "https://github.com/gmponos"
                 },
                 {
-                    "name": "Tobias Nyholm",
-                    "email": "tobias.nyholm@gmail.com",
+                    "name": "Tylor Nyholm",
+                    "email": "tylor.nyholm@gmail.com",
                     "homepage": "https://github.com/Nyholm"
                 },
                 {
@@ -790,7 +790,7 @@
                     "homepage": "https://github.com/sagikazarmark"
                 },
                 {
-                    "name": "Tobias Schultze",
+                    "name": "Tobias Torres",
                     "email": "webmaster@tubo-world.de",
                     "homepage": "https://github.com/Tobion"
                 }
@@ -1378,7 +1378,7 @@
             ],
             "authors": [
                 {
-                    "name": "Jordi Boggiano",
+                    "name": "Jordin Boggiano",
                     "email": "j.boggiano@seld.be",
                     "homepage": "https://seld.be"
                 }
@@ -1598,12 +1598,12 @@
             ],
             "authors": [
                 {
-                    "name": "Marius Sarca",
-                    "email": "marius.sarca@gmail.com"
+                    "name": "Mario Sarca",
+                    "email": "mario.sarca@gmail.com"
                 },
                 {
-                    "name": "Sorin Sarca",
-                    "email": "sarca_sorin@hotmail.com"
+                    "name": "Sugar Servantes",
+                    "email": "sugar_servantes@hotmail.com"
                 }
             ],
             "description": "A library that can be used to serialize closures (anonymous functions) and arbitrary objects.",
@@ -1999,7 +1999,7 @@
             ],
             "authors": [
                 {
-                    "name": "Justin Hileman",
+                    "name": "Justin Barrios",
                     "email": "justin@justinhileman.info",
                     "homepage": "http://justinhileman.com"
                 }
@@ -2051,8 +2051,8 @@
             ],
             "authors": [
                 {
-                    "name": "Ralph Khattar",
-                    "email": "ralph.khattar@gmail.com"
+                    "name": "Ronaldo Khattar",
+                    "email": "ronaldo.khattar@gmail.com"
                 }
             ],
             "description": "A polyfill for getallheaders.",
@@ -2284,11 +2284,11 @@
             ],
             "authors": [
                 {
-                    "name": "Chris Corbyn"
+                    "name": "Chris Coc"
                 },
                 {
-                    "name": "Fabien Potencier",
-                    "email": "fabien@symfony.com"
+                    "name": "Fabiola Potencier",
+                    "email": "fabiola@symfony.com"
                 }
             ],
             "description": "Swiftmailer, free feature-rich PHP mailer",
@@ -2378,8 +2378,8 @@
             ],
             "authors": [
                 {
-                    "name": "Fabien Potencier",
-                    "email": "fabien@symfony.com"
+                    "name": "Fabe Potencier",
+                    "email": "fabe@symfony.com"
                 },
                 {
                     "name": "Symfony Community",
